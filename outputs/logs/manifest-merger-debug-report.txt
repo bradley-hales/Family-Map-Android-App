@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.joanzapata.iconify:android-iconify-fontawesome:2.2.2] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\android-iconify-fontawesome-2.2.2.aar\e39eca140e7122268dcded093afc99c9\AndroidManifest.xml:2:1-8:12
+MERGED from [com.joanzapata.iconify:android-iconify:2.2.2] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\android-iconify-2.2.2.aar\93833d9f051e24816ac568700b8e7f15\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ede7e4017ef0d599021da0fffa3b088a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2089d742336814ecce7250dc76d209db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\16079fd490bb3935b46504afb39cb6b9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\75fb12e771eb468a0e7b3463dbf9bfbc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\93138b078525affd168ae9069dc4cd32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af443a70e0479d81d26ed6a54f26ffb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2d4680416d2ce2edbac5e05201171d02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d2313d9620ceb9f3c9c7a0039a382af7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7a7f556e0452d3c13ea126ea3ed8f51f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e683fce0ef69c1b5a03ad610592b378\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2091656709052b3dfd3f3860903343c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\54f25c84940969bc4ab3008b1ca9dc4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f767633d1ea5b386ea14e18e373e501a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0bc4853315e70b9d4ef4ff35f2aa4710\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a288af72fcc5bcae78217fbc15cbb016\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0dff34ba95819acb12f8e482800a4dce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\68cf123efc8cbae63079e54eb9d95c1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a4469fe4f89207e5e352e1635b6ac7fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fc2a11e2b0eb09d1dcd0bf21e170eb43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f0377f1197dde035604ae439d861839\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\51bf7a428d1bfcdfd958049704675a8e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b614e90395a9e45e925207cc98de7486\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1f401a72f6955cb40ddf736624a29c48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c4e7ee9fcb0e8d3c381cd9b11ad6d91c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a1269b00af58723b0565ccfaca5ba2ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2e3687b2ee6e6716e5f8f7c8e9f63420\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7136b82620ec17a8c606bd594364541c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\579f7f9d0c7e64046f9194248bd7c150\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d49d92655a428efbe0abf4205a8cf0c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ad5752b5bf51c413aae9a41bce3cf7aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8fab9d1ceacc95b12bd01ca380644958\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:14:5-54:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2089d742336814ecce7250dc76d209db\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2089d742336814ecce7250dc76d209db\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\16079fd490bb3935b46504afb39cb6b9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\16079fd490bb3935b46504afb39cb6b9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:22:5-26:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f0377f1197dde035604ae439d861839\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f0377f1197dde035604ae439d861839\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\51bf7a428d1bfcdfd958049704675a8e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\51bf7a428d1bfcdfd958049704675a8e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f0377f1197dde035604ae439d861839\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:20:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:21:9-44
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:23:13-50
+activity#com.example.bradl.familymapserver.FMS
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:26:9-41
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:26:19-38
+activity#Activities.MainActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:27:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:43:13-58
+activity#com.example.bradl.familymapserver.MapsActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:46:9-48:68
+	android:label
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:48:13-65
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:47:13-41
+activity#Activities.PersonActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:49:9-62
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:49:19-59
+activity#Activities.EventActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:50:19-58
+activity#Activities.FilterActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:51:9-62
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:51:19-59
+activity#Activities.SettingsActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:52:9-64
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:52:19-61
+activity#Activities.SearchActivity
+ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:53:9-71
+	android:name
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml:53:19-59
+uses-sdk
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+MERGED from [com.joanzapata.iconify:android-iconify-fontawesome:2.2.2] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\android-iconify-fontawesome-2.2.2.aar\e39eca140e7122268dcded093afc99c9\AndroidManifest.xml:6:5-43
+MERGED from [com.joanzapata.iconify:android-iconify-fontawesome:2.2.2] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\android-iconify-fontawesome-2.2.2.aar\e39eca140e7122268dcded093afc99c9\AndroidManifest.xml:6:5-43
+MERGED from [com.joanzapata.iconify:android-iconify:2.2.2] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\android-iconify-2.2.2.aar\93833d9f051e24816ac568700b8e7f15\AndroidManifest.xml:6:5-43
+MERGED from [com.joanzapata.iconify:android-iconify:2.2.2] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\android-iconify-2.2.2.aar\93833d9f051e24816ac568700b8e7f15\AndroidManifest.xml:6:5-43
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ede7e4017ef0d599021da0fffa3b088a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ede7e4017ef0d599021da0fffa3b088a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2089d742336814ecce7250dc76d209db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2089d742336814ecce7250dc76d209db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\16079fd490bb3935b46504afb39cb6b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\16079fd490bb3935b46504afb39cb6b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\75fb12e771eb468a0e7b3463dbf9bfbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\75fb12e771eb468a0e7b3463dbf9bfbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\93138b078525affd168ae9069dc4cd32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\93138b078525affd168ae9069dc4cd32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af443a70e0479d81d26ed6a54f26ffb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\af443a70e0479d81d26ed6a54f26ffb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2d4680416d2ce2edbac5e05201171d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2d4680416d2ce2edbac5e05201171d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d2313d9620ceb9f3c9c7a0039a382af7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d2313d9620ceb9f3c9c7a0039a382af7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7a7f556e0452d3c13ea126ea3ed8f51f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\7a7f556e0452d3c13ea126ea3ed8f51f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e683fce0ef69c1b5a03ad610592b378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e683fce0ef69c1b5a03ad610592b378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2091656709052b3dfd3f3860903343c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2091656709052b3dfd3f3860903343c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\54f25c84940969bc4ab3008b1ca9dc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\54f25c84940969bc4ab3008b1ca9dc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f767633d1ea5b386ea14e18e373e501a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f767633d1ea5b386ea14e18e373e501a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0bc4853315e70b9d4ef4ff35f2aa4710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0bc4853315e70b9d4ef4ff35f2aa4710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a288af72fcc5bcae78217fbc15cbb016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a288af72fcc5bcae78217fbc15cbb016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0dff34ba95819acb12f8e482800a4dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0dff34ba95819acb12f8e482800a4dce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\68cf123efc8cbae63079e54eb9d95c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\68cf123efc8cbae63079e54eb9d95c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a4469fe4f89207e5e352e1635b6ac7fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a4469fe4f89207e5e352e1635b6ac7fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fc2a11e2b0eb09d1dcd0bf21e170eb43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\fc2a11e2b0eb09d1dcd0bf21e170eb43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f0377f1197dde035604ae439d861839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7f0377f1197dde035604ae439d861839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\51bf7a428d1bfcdfd958049704675a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\51bf7a428d1bfcdfd958049704675a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b614e90395a9e45e925207cc98de7486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b614e90395a9e45e925207cc98de7486\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1f401a72f6955cb40ddf736624a29c48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1f401a72f6955cb40ddf736624a29c48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c4e7ee9fcb0e8d3c381cd9b11ad6d91c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c4e7ee9fcb0e8d3c381cd9b11ad6d91c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a1269b00af58723b0565ccfaca5ba2ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a1269b00af58723b0565ccfaca5ba2ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2e3687b2ee6e6716e5f8f7c8e9f63420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2e3687b2ee6e6716e5f8f7c8e9f63420\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7136b82620ec17a8c606bd594364541c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7136b82620ec17a8c606bd594364541c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\579f7f9d0c7e64046f9194248bd7c150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\579f7f9d0c7e64046f9194248bd7c150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d49d92655a428efbe0abf4205a8cf0c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d49d92655a428efbe0abf4205a8cf0c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ad5752b5bf51c413aae9a41bce3cf7aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ad5752b5bf51c413aae9a41bce3cf7aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8fab9d1ceacc95b12bd01ca380644958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8fab9d1ceacc95b12bd01ca380644958\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bradl\Documents\CS_240\FamilyMapServer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5d9d311b12e431d90172ac708b35ce25\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\475a984fc790d5f5721d42ee28c50073\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\cf8ccfd4920f4af2790c794157ff47da\AndroidManifest.xml:24:13-58
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\bradl\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\b27a8ce4c09e522335751259e5a647d4\AndroidManifest.xml:24:13-83
