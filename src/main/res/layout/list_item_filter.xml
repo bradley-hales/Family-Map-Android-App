@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:id="@+id/filter_activity"
+    android:backgroundTint="@color/background_color"
+    android:padding="16dp">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewFilterEventType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewFilterBy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewFilterEventType"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+
+        <Switch
+            android:id="@+id/filterSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:checked="true"
+            android:textOff="OFF"
+            android:textOn="ON"/>
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line2"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+
+</LinearLayout>

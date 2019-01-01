@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:id="@+id/filter_activity"
+    android:backgroundTint="@color/background_color"
+    android:padding="16dp">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewSettingsLifeStory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:text="Life Story Lines"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewSettingsShowLife"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewSettingsLifeStory"
+            android:text="SHOW LIFE STORY LINES"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+        <Spinner
+            android:id="@+id/LifeStoryColorSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/SettingsLifeStorySwitch"
+            android:layout_centerVertical="true"
+            android:spinnerMode="dropdown"/>
+
+        <Switch
+            android:id="@+id/SettingsLifeStorySwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:checked="true"
+            android:textOff="OFF"
+            android:textOn="ON"/>
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewSettingsFamilyTree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:text="Family Tree Lines"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewSettingsShowFTree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewSettingsFamilyTree"
+            android:text="SHOW TREE LINES"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+        <Spinner
+            android:id="@+id/FamilyTreeColorSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/SettingsFamilyTreeSwitch"
+            android:layout_centerVertical="true"
+            android:spinnerMode="dropdown"/>
+
+        <Switch
+            android:id="@+id/SettingsFamilyTreeSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:checked="true"
+            android:textOff="OFF"
+            android:textOn="ON"/>
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line2"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewSettingsSpouseLines"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:text="Spouse Lines"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewSettingsShowSpouse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewSettingsSpouseLines"
+            android:text="SHOW SPOUSE LINES"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+        <Spinner
+            android:id="@+id/SpouseLinesColorSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/SettingsSpouseLinesSwitch"
+            android:layout_centerVertical="true"
+            android:spinnerMode="dropdown"/>
+
+        <Switch
+            android:id="@+id/SettingsSpouseLinesSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:checked="true"
+            android:textOff="OFF"
+            android:textOn="ON"/>
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line3"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewSettingsMapType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:text="Map Type"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewSettingsDisplayOnMap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewSettingsMapType"
+            android:text="BACKGROUND DISPLAY ON MAP"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+        <Spinner
+            android:id="@+id/MapTypeSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:spinnerMode="dropdown"/>
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line4"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+
+    <RelativeLayout
+        android:id="@+id/resyncData"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewSettingsResync"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:text="Re-sync Data"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewSettingsFMapService"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewSettingsResync"
+            android:text="FROM FAMILYMAP SERVICE"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line5"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+    <RelativeLayout
+        android:id="@+id/logout"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/textViewSettingsLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:text="Logout"
+            android:textSize="17dp" />
+        <!--android:text="Birth Event"-->
+
+        <TextView
+            android:id="@+id/textViewSettingsLogoutBelow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/textViewSettingsLogout"
+            android:text="SHOW LIFE STORY LINES"
+            android:textSize="12dp"/>
+        <!--android:text="Type of event"-->
+
+    </RelativeLayout>
+    <View
+        android:id="@+id/line6"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_weight="1"
+        android:background="#FF909090"
+        android:padding="2dip" />
+
+
+</LinearLayout>
+
+
+
+

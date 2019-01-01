@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="Activities.PersonActivity">
+
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dip"
+        android:layout_marginLeft="15dp"
+        android:background="@color/background_color"
+        android:layout_marginRight="20dp">
+
+        <TableRow>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/first_name_person"
+                    android:layout_alignParentLeft="true"
+                    android:textStyle="bold"
+                    android:textSize="18dp"
+                    android:text="John"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/first_name_field"
+                    android:layout_below="@id/first_name_person"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="10dp"
+                    android:text="FIRST NAME"/>
+
+            </RelativeLayout>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <View
+                android:id="@+id/line2"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_weight="1"
+                android:background="#FF909090"
+                android:padding="2dip" />
+        </TableRow>
+        <TableRow>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/last_name_person"
+                    android:layout_alignParentLeft="true"
+                    android:textStyle="bold"
+                    android:textSize="18dp"
+                    android:text="Doe"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/last_name_field"
+                    android:layout_below="@id/last_name_person"
+                    android:layout_alignParentLeft="true"
+                    android:textSize="10dp"
+                    android:text="LAST NAME"/>
+
+            </RelativeLayout>
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <View
+                android:id="@+id/line3"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_weight="1"
+                android:background="#FF909090"
+                android:padding="2dip" />
+        </TableRow>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/gender_person"
+                android:layout_alignParentLeft="true"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:text="Male"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/gender_person_field"
+                android:layout_below="@id/gender_person"
+                android:layout_alignParentLeft="true"
+                android:textSize="10dp"
+                android:text="GENDER"/>
+
+        </RelativeLayout>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <View
+                android:id="@+id/line1"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_weight="1"
+                android:background="#FF909090"
+                android:padding="2dip" />
+        </TableRow>
+
+    </TableLayout>
+    <ExpandableListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/life_events_list">
+
+    </ExpandableListView>
+
+
+</LinearLayout>

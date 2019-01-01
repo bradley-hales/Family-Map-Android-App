@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="male_icon">#0000FF</color>
+    <color name="female_icon">#FF69B4</color>
+    <color name="father_line">#FFA500</color>
+    <color name="mother_line">#ff0000</color>
+    <color name="spouse_line">#FFFF00</color>
+    <color name="selected_person_event_line">#0000ff</color>
+    <color name="background_color">#edeeef</color>
+    <color name="android_icon_color">#A4C639</color>
+</resources>
